@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I’m Mantra Patil
 
-<!--
-**mantrapatil03/mantrapatil03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Engineering Student | Python Developer(Learner) | Cybersecurity Enthusiast
+⚡ Passionate about Ethical Hacking, Indian Culture & Traditional Games
+🎯 Exploring Web & App Development, Cybersecurity with Python, and Game Dev (Pygame)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 From Bhiwandi, Maharashtra, India 🇮🇳
+
+📖 Love learning about Technolgy, Mahabharata, Ramayana, Ayurveda, and History
+
+🎖 Achievements in Atya Patya State Championships
+
+
+## 📫 Connect With Me
+
+🌐 GitHub https://github.com/mantrapatil03
+
+💼 LinkedIn: https://www.linkedin.com/in/mantrapatil25
+
+✉ mantrapatil2007@gmail.com
