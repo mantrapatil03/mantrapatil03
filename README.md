@@ -27,5 +27,6 @@ I enjoy working with Python for automation and building beginner-friendly projec
 
 ✉ mantrapatil2007@gmail.com
 
+---
 
 ✨ Building projects today, securing systems tomorrow.
