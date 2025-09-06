@@ -1,7 +1,9 @@
 ## 👋 Hi, I’m Mantra Patil
 
 💻 Engineering Student | Python Developer(Learner) | Cybersecurity Enthusiast
+
 ⚡ Passionate about Ethical Hacking, Indian Culture & Traditional Games
+
 🎯 Exploring Web & App Development, Cybersecurity with Python, and Game Dev (Pygame)
 
 ## 🚀 About Me
