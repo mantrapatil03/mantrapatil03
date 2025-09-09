@@ -25,7 +25,7 @@ I enjoy working with Python for automation and building beginner-friendly projec
 
 💼 LinkedIn: https://www.linkedin.com/in/mantrapatil25
 
-✉ mantrapatil2007@gmail.com
+✉ techmantra@gmail.com
 
 ---
 
