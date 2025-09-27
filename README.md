@@ -7,8 +7,9 @@
 🎯 Exploring Web & App Development, **Cybersecurity with Python**, and Game Dev (`Pygame`)
 
 ## 🚀 About Me
-
-I enjoy working with Python for automation and building beginner-friendly projects, and I’m actively exploring the field of ethical hacking and cybersecurity tools. Currently, I’m sharpening my skills in network security, automation, and problem-solving with Python.
+>I enjoy working with Python for automation and building beginner-friendly projects, and
+>I’m actively exploring the field of ethical hacking and cybersecurity tools.
+>Currently, I’m sharpening my skills in network security, automation, and problem-solving with Python.
 
 🌍 From Bhiwandi, Maharashtra, India `🇮🇳`
 
