@@ -2,9 +2,9 @@
 
 💻 **Engineering Student** | Python Developer(Learner) | Ethical Hacking & Cybersecurity Enthusiast
 
-⚡ Passionate about **Ethical Hacking**, **Indian Culture** & Traditional Games
+**Passionate** about **Ethical Hacking**, **Indian Culture** & Traditional Games
 
-🎯 Exploring Web & App Development, **Cybersecurity with Python**, and Game Dev (`Pygame`)
+**Exploring** Web & App Development, **Cybersecurity with Python**, and Game Dev (`Pygame`)🎯 
 
 ## 🚀 About Me
 >I enjoy working with Python for automation and building beginner-friendly projects, and
@@ -13,16 +13,14 @@
 
 🌍 From Bhiwandi, Maharashtra, India `🇮🇳`
 
-💻 Currently build Python-beginner-friendly projects
+Currently build Python-beginner-friendly projects
 
 📖 Love learning about Technolgy, Mahabharata, Ramayana, Ayurveda, and History
 
-🎖 Achievements in ``Atya Patya State Championships``
+**Achievements** in ``Atya Patya State Championships``🎖
 
 
 ## 📫 Connect With Me
-
-🌐 GitHub: https://github.com/mantrapatil03
 
 💼 LinkedIn: https://www.linkedin.com/in/mantrapatil25
 
