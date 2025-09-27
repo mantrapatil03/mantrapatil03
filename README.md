@@ -11,13 +11,13 @@
 >I’m actively exploring the field of ethical hacking and cybersecurity tools.
 >Currently, I’m sharpening my skills in network security, automation, and problem-solving with Python.
 
-🌍 From Bhiwandi, Maharashtra, India `🇮🇳`
+- 🌍 From Bhiwandi, Maharashtra, India `🇮🇳`
 
-Currently build Python-beginner-friendly projects
+- Currently build Python-beginner-friendly projects
 
-📖 Love learning about Technolgy, Mahabharata, Ramayana, Ayurveda, and History
+- 📖 Love learning about Technolgy, Mahabharata, Ramayana, Ayurveda, and History
 
-**Achievements** in ``Atya Patya State Championships``🎖
+- **Achievements** in ``Atya Patya State Championships``🎖
 
 
 ## 📫 Connect With Me
