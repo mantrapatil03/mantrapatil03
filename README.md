@@ -13,8 +13,6 @@
 
 - 🌍 From Bhiwandi, Maharashtra, India `🇮🇳`
 
-- Currently build Python-beginner-friendly projects
-
 - 📖 Love learning about Technolgy, Mahabharata, Ramayana, Ayurveda, and History
 
 - **Achievements** in ``Atya Patya State Championships``🎖
