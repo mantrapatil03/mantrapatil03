@@ -26,9 +26,7 @@
 ### 🧠 What I’m Working On
 - 🔐 Developing **Phishing Detection** & **Password Security** Tools  
 - 🧩 Creating **Open Source Python Projects** for learners  
-- 🧠 Exploring **FastAPI**, **Docker**, and **CI/CD Pipelines**  
 - ⚙️ Automating everyday tasks with **Python Scripts**  
-- 🚀 Experimenting with **ML for Threat Detection**
 
 ---
 
