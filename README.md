@@ -13,9 +13,7 @@
 
 - 🌍 From Bhiwandi, Maharashtra, India `🇮🇳`
 
-- 📖 Love learning about Technolgy, Mahabharata, Ramayana, Ayurveda, and History
-
-- **Achievements** in ``Atya Patya State Championships``🎖
+- 📖 Love learning about Technolgy, Epics & History
 
 
 ## 📫 Connect With Me
