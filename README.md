@@ -54,15 +54,11 @@
 
 
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=⭐+Explore+My+Repositories+⭐;⚡+Learning+By+Building+Projects+⚡;💡+Innovation+Meets+Cybersecurity+💡" />
 </p>
 
-
-
-## ⚙️ Tech Stack
+---
 
 <p align="center">
   
@@ -84,8 +80,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mantrapatil03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" />
@@ -126,7 +120,6 @@
 
 ---
 
-## 🎯 Fun Quote
 
 <p align="center">
   <i>"Building projects today, securing systems tomorrow."</i> ⚔️  
@@ -138,7 +131,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="80%">
