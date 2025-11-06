@@ -88,10 +88,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantrapatil03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF" />
-</p>
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Mantra1975.png" alt="Your Image Badge" />
-</p>
+
 ---
 
 ## 🧰 Tools & Environments
@@ -102,6 +99,10 @@
   <img src="https://img.shields.io/badge/Automation-PythonScripts-yellow?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/API-FastAPI-teal?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+</p>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Mantra1975.png" alt="Your Image Badge" />
 </p>
 
 ---
