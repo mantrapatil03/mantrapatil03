@@ -35,25 +35,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/mantrapatil03/phishing-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mantrapatil03&repo=phishing-detection&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&hide_border=true" />
-  </a>
-  <a href="https://github.com/mantrapatil03/python-beginner-friendly-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mantrapatil03&repo=python-beginner-friendly-projects&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mantrapatil03/Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mantrapatil03&repo=Calculator&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&hide_border=true" />
-  </a>
-</p>
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=⭐+Explore+My+Repositories+⭐;⚡+Learning+By+Building+Projects+⚡;💡+Innovation+Meets+Cybersecurity+💡" />
 </p>
