@@ -45,19 +45,19 @@
   
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,bash,markdown" />
-  <br/>
+
   
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,tailwind,bootstrap,tkinter" />
-  <br/>
+
   
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,postman,docker" />
-  <br/>
+
   
   <!-- Databases & Cloud -->
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,aws,azure,vercel" />
-  
+  <img src="https://skillicons.dev/icons?i=kali" />
 </p>
 
 ---
