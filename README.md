@@ -42,19 +42,12 @@
 ---
 
 <p align="center">
-  
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,bash,r,markdown" />
-
-  
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=fastapi,flask,django,anaconda,react,tailwind,bootstrap,matlab,tkinter" />
-
-  
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,postman,tensorflow,pytorch,sklearn,docker" />
-
-  
   <!-- Databases & Cloud -->
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,aws,azure,vercel" />
   <img src="https://skillicons.dev/icons?i=kali" />
