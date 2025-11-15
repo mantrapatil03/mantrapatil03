@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,postman,tensorflow,pytorch,sklearn,docker" />
   <b/>
   <!-- Databases & Cloud -->
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,aws,azure,vercel,kali" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,aws,azure,vercel,kali,ubuntu,debian" />
   <b/>
 </p>
 
