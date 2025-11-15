@@ -69,7 +69,17 @@
 ---
 
 ## 🧰 Tools & Environments
-
+<p align="center">
+ <!-- 🔍 Networking / Security Tools -->
+  <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-800080?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-8A2BE2?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-333333?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Analysis-FF1493?style=for-the-badge&logo=target&logoColor=white" />
+  <br/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
