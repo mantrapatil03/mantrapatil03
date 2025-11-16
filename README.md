@@ -89,7 +89,7 @@
 </p>
 </p>
 <p align="center">
-  <img width="1344" height="299" alt="image" src="https://github.com/user-attachments/assets/9c29e195-9a73-48b0-a442-9f94e562c83a" />
+  <img width="1343" height="278" alt="Screenshot 2025-11-16 175018" src="https://github.com/user-attachments/assets/14310f6b-fec7-416a-a828-cebf5820b81b" />
 </p>
 
 ---
