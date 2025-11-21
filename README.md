@@ -108,7 +108,7 @@
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://img.shields.io/badge/API-FastAPI-teal?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/mantrapatil25](https://www.augusta.edu/online/blog/cybersecurity-ethics)">
+  <a href="https://www.augusta.edu/online/blog/cybersecurity-ethics">
     <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
   </a>
 </p>
