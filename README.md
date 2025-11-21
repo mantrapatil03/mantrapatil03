@@ -71,25 +71,53 @@
 ## 🧰 Tools & Environments
 <p align="center">
  <!-- 🔍 Networking / Security Tools -->
-  <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-800080?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Security-8A2BE2?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-333333?style=for-the-badge&logo=hackaday&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat%20Analysis-FF1493?style=for-the-badge&logo=target&logoColor=white" />
+  <a href="https://www.kali.org/tools/nmap/">
+    <img src="https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=linux&logoColor=white" />
+  </a>
+  <a href="https://www.kali.org/tools/wireshark/">
+    <img src="https://img.shields.io/badge/Wireshark-1E90FF?style=for-the-badge&logo=wireshark&logoColor=white" />
+  </a>
+  <a href="https://www.kali.org/tools/burpsuite/">
+    <img src="https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  </a>
+  <a href="https://docs.metasploit.com/">
+    <img src="https://img.shields.io/badge/Metasploit-800080?style=for-the-badge&logo=metasploit&logoColor=white" />
+  </a>
+  <a href="https://www.fortinet.com/resources/cyberglossary/what-is-network-security">
+    <img src="https://img.shields.io/badge/Network%20Security-8A2BE2?style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+  <a href="https://www.netacad.com/courses/ethical-hacker?courseLang=en-US">
+    <img src="https://img.shields.io/badge/Ethical%20Hacking-333333?style=for-the-badge&logo=hackaday&logoColor=white" />
+  </a>
+  <a href="https://www.sentinelone.com/cybersecurity-101/threat-intelligence/what-is-threat-analysis/">
+    <img src="https://img.shields.io/badge/Threat%20Analysis-FF1493?style=for-the-badge&logo=target&logoColor=white" />
+  </a>
   <br/>
+  
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-PythonScripts-yellow?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/API-FastAPI-teal?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <a href="https://www.kali.org/docs/">
+    <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux&logoColor=white" />
+  </a>  
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>
+  <a href="https://www.datacamp.com/tutorial/python-automation">
+    <img src="https://img.shields.io/badge/Automation-PythonScripts-yellow?style=for-the-badge&logo=python&logoColor=black" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/API-FastAPI-teal?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>
+  <a href="[https://www.linkedin.com/in/mantrapatil25](https://www.augusta.edu/online/blog/cybersecurity-ethics)">
+    <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  </a>
 </p>
+
 </p>
 <p align="center">
+ <a herf="https://tryhackme.com/p/Mantra1975" />
   <img width="1343" height="278" alt="Screenshot 2025-11-16 175018" src="https://github.com/user-attachments/assets/14310f6b-fec7-416a-a828-cebf5820b81b" />
+ </a>
 </p>
 
 ---
@@ -119,8 +147,12 @@
  <a href="https://www.w3schools.com/python/default.asp">
   <img src="https://img.shields.io/badge/Made%20With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  </a>
+ <a href="https://www.fortinet.com/resources/cyberglossary/what-is-cybersecurity#:~:text=Cybersecurity%3A%20Meaning%20%26%20Definition,from%20cyberattacks%20and%20unauthorized%20access." />
   <img src="https://img.shields.io/badge/Learning-Cybersecurity-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+ </a>
+ <a href="https://www.codetriage.com/">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" />
+ </a>
 </p>
 
 
