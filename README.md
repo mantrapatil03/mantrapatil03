@@ -44,13 +44,13 @@
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,bash,r,markdown" />
-  <b/>
+  
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=fastapi,flask,django,anaconda,react,tailwind,bootstrap,matlab,tkinter," />
-  <b/>
+  
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,postman,tensorflow,pytorch,sklearn,docker" />
-  <b/>
+  
   <!-- Databases & Cloud -->
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,aws,azure,vercel,kali,ubuntu,debian" />
   <b/>
