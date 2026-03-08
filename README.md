@@ -116,7 +116,7 @@
 </p>
 <p align="center">
  <a herf="https://tryhackme.com/p/Mantra1975" />
-  <img width="1343" height="278" alt="Screenshot 2025-11-16 175018" src="https://github.com/user-attachments/assets/14310f6b-fec7-416a-a828-cebf5820b81b" />
+  
  </a>
 </p>
 
