@@ -21,12 +21,7 @@
 > I love building educational tools that promote **secure coding**, **data protection**, and **technical awareness**.  
 > Beyond tech, I’m curious about **Indian Culture**, **History**, and **Traditional Games** 🎯
 
----
 
-### 🧠 What I’m Working On
-- 🔐 Developing **Phishing Detection** & **Password Security** Tools  
-- 🧩 Creating **Open Source Python Projects** for learners  
-- ⚙️ Automating everyday tasks with **Python Scripts**  
 
 ---
 
