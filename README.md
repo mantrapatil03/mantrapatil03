@@ -38,16 +38,16 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,bash,r,markdown" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,bash,markdown" />
   
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,anaconda,react,tailwind,bootstrap,matlab,tkinter," />
+  <img src="https://skillicons.dev/icons?i=flask,django,anaconda,react,tailwind,matlab,tkinter," />
   
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,postman,tensorflow,pytorch,sklearn,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,tensorflow,pytorch,sklearn,docker" />
   
   <!-- Databases & Cloud -->
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,aws,azure,vercel,kali,ubuntu,debian" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,azure,kali,ubuntu,debian" />
   <b/>
 </p>
 
