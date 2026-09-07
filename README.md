@@ -41,10 +41,10 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,bash,markdown" />
   
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=flask,django,anaconda,react,tailwind,matlab,tkinter," />
+  <img src="https://skillicons.dev/icons?i=flask,django,anaconda,react,tkinter," />
   
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,tensorflow,pytorch,sklearn,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,,tensorflow,docker" />
   
   <!-- Databases & Cloud -->
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,azure,kali,ubuntu,debian" />
